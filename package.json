@@ -1,0 +1,27 @@
+{
+  "name": "numero-palabra",
+  "version": "1.0.1",
+  "description": "Convierte un número a palabra",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-montiers/numero-a-palabra.git"
+  },
+  "keywords": [
+    "número",
+    "palabra"
+  ],
+  "author": "Carlos Montiers A.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlos-montiers/numero-a-palabra/issues"
+  },
+  "homepage": "https://github.com/carlos-montiers/numero-a-palabra#readme"
+}
